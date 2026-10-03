@@ -1,0 +1,92 @@
+Privacy Policy for CTS BMS
+
+Last Updated: October 2026
+Effective Date: October 2026
+
+1. App Information
+
+App Name: CTS BMS
+Developer: INNOV Technologies Company Ltd
+Support Email: microidea@163.com
+
+2. Data Collection and Use
+
+CTS BMS (hereinafter "the App") is a Bluetooth (BLE) tool for configuring and monitoring CTS battery management system (BMS) devices. It connects to a physical BMS device over Bluetooth, sends the device MAC address, reads live battery and cell data, renames the device, and records CAN bus logs locally. This policy explains how we handle your information.
+
+2.1 Information We Collect
+
+The App is designed to minimize data collection. All processing happens locally on your device; we operate no user accounts and no cloud servers.
+
+Device Connection Data (processed locally, never uploaded):
+- The MAC address you enter or scan, and the device name you assign
+- Live BMS telemetry read from the connected device over Bluetooth (e.g., voltage, current, temperature, cell data)
+
+Local App Data:
+- MAC address history, stored in the app's local sandbox for your convenience
+- App settings and preferences (e.g., language selection)
+
+CAN Bus Logs:
+- CAN bus recordings are saved as files in the app's local storage. They remain on your device until you choose to share or email them manually.
+
+2.2 Information We Do NOT Collect
+
+- Personal accounts, usernames, or passwords (the App has no login)
+- Any data uploaded to external servers or clouds
+- Contacts, photos, SMS, call logs, or other personal data on your device
+- Precise or coarse location
+- Payment or financial information
+
+3. Purpose of Data Use
+
+The information handled by the App is used solely for the following purposes:
+- Core Functionality: Connecting to and configuring CTS BMS devices, and displaying live BMS/CAN data over Bluetooth
+- Local Records: Saving CAN bus logs and MAC history on your device for later review
+- Export: Letting you share or email CAN logs through the system share sheet / mail app you choose
+
+4. Data Storage and Protection
+
+4.1 Data Storage
+- All BMS telemetry and CAN logs are stored locally on your device (within the app sandbox) and are never transmitted to any server.
+- MAC history and app settings are cached locally and cleared when the app is uninstalled.
+
+4.2 Data Security
+- Communications with the BMS device use the system Bluetooth security mechanism.
+- The App does not transmit personal data over the network. When you choose to email a log, the email is composed and sent by your device's own mail application; we do not receive or store it.
+- Local data is stored in the app sandbox and is removed when the app is uninstalled.
+
+5. Data Sharing and Disclosure
+
+We commit to:
+- Not collecting or uploading your personal data in the first place
+- Not selling, trading, or transferring your data to any third parties
+- Not sharing data with advertising or analytics platforms
+- Disclosing information only when required by law
+
+6. Permission Usage Explanation
+
+Bluetooth Permission: Used to scan for and connect to nearby CTS BMS devices, send the MAC address, and read BMS / CAN data over Bluetooth. This is the core functionality of the App.
+Camera Permission: Used to scan a QR code to read the device MAC address quickly (the QR code is parsed locally on your device and is not uploaded).
+Local Storage Permission: Used to save CAN bus recordings as files and to store MAC history on your device.
+
+7. Your Rights
+
+- Right to Access: View connected device data and MAC history directly within the App.
+- Right to Deletion: You can clear the MAC history in the App at any time, and uninstalling the App permanently removes all local data (CAN logs, history, settings).
+- Right to Control: Revoke Bluetooth or local storage permissions at any time in your device's system settings.
+
+8. Children's Privacy
+
+Our App is not directed at children under the age of 13 (or the minimum age in your jurisdiction), and we do not knowingly collect personal information from children.
+
+9. Policy Updates
+
+We may update this Privacy Policy from time to time. When we do, we will update the "Last Updated" date.
+
+10. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+
+Email: microidea@163.com
+Response Time: We will respond to your inquiry within 3 business days
+
+© 2026 INNOV Technologies Company Ltd All rights reserved.
